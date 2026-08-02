@@ -14,8 +14,6 @@ const messages = await client.messages.create({
 
 console.log(messages.content[0].text);
 
-### To RUn
-#   npx tsx firstCall.ts
-###
+
 
 
